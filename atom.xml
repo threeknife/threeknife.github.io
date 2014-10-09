@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ThreeKniFe Blog]]></title>
+  <link href="http://threeknife.github.io/atom.xml" rel="self"/>
+  <link href="http://threeknife.github.io/"/>
+  <updated>2014-10-09T20:15:11+08:00</updated>
+  <id>http://threeknife.github.io/</id>
+  <author>
+    <name><![CDATA[threeknife]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Article Name]]></title>
+    <link href="http://threeknife.github.io/blog/2014/10/09/article-name/"/>
+    <updated>2014-10-09T14:23:40+08:00</updated>
+    <id>http://threeknife.github.io/blog/2014/10/09/article-name</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
